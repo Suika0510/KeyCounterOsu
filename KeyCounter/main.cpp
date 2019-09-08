@@ -3,8 +3,8 @@
 #include <memory>
 #include <algorithm>
 #include <string>
-#include <chrono>
 #include <functional>
+#include <chrono>
 #include <SFML/Graphics.hpp>
 #include <Windows.h>
 
